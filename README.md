@@ -1,0 +1,7 @@
+# douyinxposed
+hook抖音的data/data下的MP4
+
+使用前，请安装virtualxposed到手机
+克隆抖音短视频app和douyinxposed到virtualxposed中
+激活douyinxposed
+打开抖音短视频app，录制一段视频后进入预览页，此时视频文件已经被保存到sdcard/CameraData/douyin中了
